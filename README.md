@@ -26,6 +26,7 @@ JSON (for result storage)
 ## 🚀 How to Run
 Clone this repository:
 
+'''Python
 git clone https://github.com/chandanmsr/Lung-Cancer-GUI.git
 
 Install the required libraries:
