@@ -1,0 +1,21 @@
+# Lung Cancer Prediction System
+
+A machine learning application for predicting lung cancer risk based on patient symptoms and characteristics.
+
+## Features
+
+- Multiple ML models (Random Forest, Logistic Regression, SVM, etc.)
+- Interactive GUI for input and prediction
+- Visualization tools for data exploration
+- Model performance comparison
+- Input history tracking
+
+## Installation
+
+1. Clone this repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Place your `lcs.csv` dataset in the `data/` folder
+
+## Usage
+
+Run the application:
